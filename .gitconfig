@@ -1,0 +1,13 @@
+[user]
+	name = Dai Matsuura
+    email = d.matsuura0219@gmail.com
+[core]
+	excludesfile = /Users/a12848/.gitignore_global
+[alias]
+	st = status
+	cm = commit
+	co = checkout
+	cp = cheryy-pick
+	dev = checkout develop
+	br = branch
+	rb = rebase
